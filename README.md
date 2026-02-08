@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### ⚡ Tech Stack ⚡
+
+#### 🔥 Core Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ruby,rails,nodejs,postgres,linux,docker,git,vscode)](https://skillicons.dev)
+
+#### 🛠 Learning
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs)](https://skillicons.dev)
+
 <!--
 **rai-code11/rai-code11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
