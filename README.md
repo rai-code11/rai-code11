@@ -3,7 +3,7 @@
 ### ⚡ Tech Stack ⚡
 
 #### 🔥 Core Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,django,postgres,linux,docker,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,django,postgres,linux,docker,git,github,vscode)](https://skillicons.dev)
 
 #### 🛠 Learning
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs)](https://skillicons.dev)
