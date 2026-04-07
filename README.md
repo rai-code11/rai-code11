@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,django,postgres,linux,docker,git,github,vscode)](https://skillicons.dev)
 
 #### 🛠 Learning
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,hono,tailwind)](https://skillicons.dev)
 
 <!--
 **rai-code11/rai-code11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
